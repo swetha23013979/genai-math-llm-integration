@@ -99,7 +99,5 @@ RESPONSE:
 CALCULATED VOLUME:
 
 ![image](https://github.com/user-attachments/assets/be29c83b-44b3-44ca-85bf-80d7cc218b9a)
-
-
 ### RESULT:
 Thus, a Python function for calculating the volume of a cylinder integrated with a chat completion system utilizing the function-calling feature of a large language model (LLM) is implemented successfully.
